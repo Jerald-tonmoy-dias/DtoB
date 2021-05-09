@@ -1,0 +1,27 @@
+.form-area input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: turquoise;
+}
+
+.smtxt {
+    font-size: 24px;
+    text-transform: capitalize;
+    display: block;
+    visibility: hidden;
+}
+.btn1{
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: turquoise;
+    border: transparent;
+    cursor: pointer;
+}
+
+h1#result {
+    /* visibility: hidden; */
+    color: teal;
+    text-transform: capitalize;
+}
